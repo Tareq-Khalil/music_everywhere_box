@@ -1,6 +1,6 @@
 ---
 title: "Music Everywhere Box"
-author: "Moataz Mohamed Abdullah Al-Arabi"
+author: "Mina Romany Mina habib"
 description: "A portable, customizable, smart music box with clear audio output and user-controlled track selection."
 created_at: "25/6/2026"
 ---
