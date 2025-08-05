@@ -8,9 +8,9 @@ I wanted to build something elegant and customizable that blends old-school musi
 
 ## Project Images
 
-- ![alt text](image1.png) 
-- ![alt text](image2.png) 
-- ![alt text](image.png)
+- ![alt text](PIC/image1.png) 
+- ![alt text](PIC/image2.png) 
+- ![alt text](PIC/image.png)
 
 ## Bill of Materials (BOM)
 
@@ -34,3 +34,6 @@ I wanted to build something elegant and customizable that blends old-school musi
 **Total Cost = $263.5**
 
 ---
+
+### Note
+I can provide links for all the materials because i am going to buy them offline nearby because it is cheaper and i ask to be funded after i show you the reciept of my purchase for reimbrusement.
