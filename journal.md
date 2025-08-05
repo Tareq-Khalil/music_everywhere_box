@@ -107,5 +107,7 @@ For the final touch, I cross-checked the entire Bill of Materials to confirm acc
 - ![alt text](PIC/image1.png) 
 - ![alt text](PIC/image2.png) 
 - ![alt text](PIC/image.png)
+- ![alt text](PIC/music_everywhere_box_wiring_diagram.png)
+
 
 
