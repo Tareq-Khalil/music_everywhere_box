@@ -86,6 +86,7 @@ I used my completed 3D model and printed an enclosure and started attaching the 
 **Day 12 - 06/07/2025**  
 *Time Spent:* 5 hours  
 Time to do real testing. I also listened to a few MP3 songs, I tested the options of adjusting the volume, and checked that the OLED provided me with correct feedback whenever interacting. I ensured the enclosure was closed properly without compression of wire. It was all going great. I made end shots of the device to cover various angles of the device as a part of this stage.(All Simulation)
+
 ---
 
 **Day 13 - 07/07/2025**  
@@ -105,11 +106,3 @@ This session aimed at the improvement of written documentation. I incorporated w
 To complete it, I used the final touch which was checking the whole Bill of Materials to be accurate and in line with the source. I also finished the README to match formatting guidelines and uploaded all final CAD files, wiring diagrams and project photos to the documentation gallery. And with that IBM Music Everywhere Box was officially finished and ready to share with the world.
 
 ---
-
-
-
-## Images
-
-
-
-
