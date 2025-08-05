@@ -103,6 +103,7 @@ Final round of documentation and gallery upload. I cross-checked BOM accuracy, a
 
 
 ## Images
-- ![alt text](image1.png) 
-- ![alt text](image2.png) 
-- ![alt text](image.png)
+- ![alt text](PIC/image1.png) 
+- ![alt text](PIC/image2.png) 
+- ![alt text](PIC/image.png)
+
