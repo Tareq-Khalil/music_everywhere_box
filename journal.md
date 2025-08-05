@@ -13,101 +13,103 @@ created_at: "25/6/2026"
 
 **Day 1 - 25/06/2025**  
 *Time Spent:* 5 hours  
-I began the journey by imagining how to modernize the idea of a classic music box. I wanted something digital, portable, and intuitive — a kind of “smart music companion.” After considering several microcontroller options, I decided to go with the Teensy 4.1 because of its processing power and audio capabilities. It gave me the flexibility I needed for real-time audio handling. I also sketched some early enclosure ideas — nothing too detailed yet, just trying to envision how the internal components would fit together in a compact and user-friendly form.
+I started with the process of thinking how to make the idea of an old-fashioned music box modern. What I wanted is something digital, small, portable and easy to use that I could collaborate with my music which I often call a smart music companion. I have considered different microcontrollers and, after focusing on its processing and its audio capabilities, I chose to use Teensy 4.1. It provided me with a flexibility that was required in managing the audio in real time. I did some thought bubbles of early enclosure ideas as well, though nothing particularly comprehensive just yet, just some forms of how it may be arranged to fit the internal contents in with a compact yet easy to use format.
+- ![alt text](PIC/music_everywhere_box_wiring_diagram.png)
+
 
 ---
 
 **Day 2 - 26/06/2025**  
 *Time Spent:* 4 hours  
-My focus today shifted to choosing the audio playback module. After comparing several options, I landed on the DFPlayer Mini due to its compact size and built-in support for microSD audio playback. I began simulating the wiring for this module, checking its voltage requirements and pin layout. As I worked through the electrical side of things, I also began compiling technical specs for other components I might need, laying the groundwork for later integration.
+My attention for today was given to deciding on the audio playback module. Having evaluated some of them, I chose the DFPlayer Mini because it is small and supports audio streaming by using microSD cards. I started to experiment by wiring this module checking cases of what voltage it required and the pinout. Technical specs I might need did begin to be collected at the same time I was working on the electrical side of things laying the ground work to eventual integration.
 
 ---
 
 **Day 3 - 27/06/2025**  
 *Time Spent:* 6 hours  
-Today I started thinking seriously about the physical form of the box. I designed a basic enclosure with enough airflow for the amplifier, leaving space for the battery and other internal modules. I also ran some current and voltage demand simulations to estimate how the system would behave under normal and peak loads. It was important to ensure the battery wouldn't be overstrained — reliability matters more than fancy features when it comes to a portable device.
+Today I began to think in earnest about the physical shape of the box. I made a simple enclosure sufficient to house the amplifier and with an air flow in it in view of accommodation of the battery and the rest of the internal modules. I also simulated some current and voltage demand simulation to give me an insight in the manner the system could behave in normal and peak loads. The need to avoid overstraining of the battery was also important, reliability trumps features on a portable device.
+- ![alt text](PIC/image1.png) 
+
 
 ---
 
 **Day 4 - 28/06/2025**  
 *Time Spent:* 5 hours  
-I began testing audio playback using the DFPlayer Mini. With a temporary breadboard setup, I tried different speakers and eventually settled on a 3-inch full-range driver that gave surprisingly clean output. I also began testing the integration of a rotary encoder and an OLED screen, which would allow for an interactive user interface. Today felt like the moment the project started turning into something real.
+I started to test the sound playback with DFPlayer Mini. I tested a variety of speakers using the temporary breadboard system and finally ended up choosing a 3-inch full-range driver that delivered remarkably clean output. I also started trying out the use of a rotary encoder and OLED display which can enable an interactive user interface. Today was such a day, when the project was becoming something that could become a reality.
+- ![alt text](PIC/image2.png) 
 
 ---
 
 **Day 5 - 29/06/2025**  
 *Time Spent:* 7 hours  
-Most of the day was spent refining the wiring layout. I finished simulating all major connections, and then reworked the control panel layout to recess the buttons and encoder for a sleeker look. I researched lithium-ion battery safety modules and finalized a charging solution that wouldn’t interfere with the user experience. Every component now had a place — physically and electrically — and that was a big step forward.
+The majority of the day was devoted to the wiring layout-improvement. My stage of simulating all major connections was complete and I then redid the layout of the control panel so the buttons and encoder would be in a recess. I studied safety modules of lithium ion battery systems and reached a solution of charging that did not affect the user experience. Each part could now be located--physically and electrically--and that was a long step in the right direction.
+- ![alt text](PIC/image.png)
 
 ---
 
 **Day 6 - 30/06/2025**  
 *Time Spent:* 6 hours  
-Today was all about safety and precision. I calculated jumper wire thickness and verified it could handle the current draw. I finalized the 3D model, carefully adjusting tolerances to make sure the components would fit just right. I even ran a virtual airflow simulation to ensure the internals wouldn’t trap heat — a detail often skipped, but one I knew would make a difference over long-term use.
+Safety and accuracy were the main themes today. I had a count of jumper wire thickness and I checked that it could carry the current draw. I made the last touches on the 3D model and paid special attention to tolerances, so that the components would fit perfectly well. I even tried running a virtual airflow simulation just to make sure that the internals would not trap heat a detail I knew mattered in the long run against the actual use.
 
 ---
 
 **Day 7 - 1/07/2025**  
 *Time Spent:* 6 hours  
-I spent the day documenting material properties, focusing especially on PLA’s thermal limits and how that related to the amplifier’s heat output. I verified OLED readability with multiple backgrounds to avoid poor visibility in daylight. I also experimented with tactile button placement, trying to reduce the chance of accidental presses. Small changes, but the kind that make a difference in daily use.
+I spent the day recording material properties, in particular that of PLA thermal limits and how that compared to the heat out from the amplifier. I tested readability of OLED due to several backgrounds to prevent bad visibility in daylight. I also tried some button location to be tactile, also attempting to make the button less likely to press unintentionally. Changes which are small, but such as one notices in everyday use.
 
 ---
 
 **Day 8 - 02/07/2025**  
 *Time Spent:* 6 hours  
-This session was all about audio quality. I ran several sound tests using the PAM8403 amplifier module, adjusting distances between it and the speaker. To add more depth, I experimented with a small subwoofer amplifier. It made a noticeable improvement. I also reorganized the battery layout to maximize space efficiency without affecting airflow.
+This session was purely audio oriented. I conducted some sound tests with the PAM8403 amplifier module where I varied distances between the speaker and this module. To drive it further, I tried a little subwoofer amp. It did noticeably better. The layout of the battery was also reorganized so as to fit more and take as much space as possible, still without having an impact on airflow.
 
 ---
 
 **Day 9 - 03/07/2025**  
 *Time Spent:* 5 hours  
-I wired and tested all the electronic components on a breadboard. The MP3 module, OLED display, and encoder were all functional, but the encoder had a noisy signal which I had to debounce in code. It was tedious work, but I made sure to document the wiring in detail to make future soldering easier and error-free.
+I made an electronic breadboard, wired, and tested all its parts. The MP3 module was working, the OLED display as well and the encoder had a very noisy signal that I needed to debounce in code. It was a boring process and I took my time to write down all information concerning the wiring so that subsequent soldering can be fast and without any mistakes.
 
 ---
 
 **Day 10 - 04/07/2025**  
 *Time Spent:* 6 hours  
-Today, I simulated full system battery load and tested how long the box could operate during continuous playback. The results were promising. I also tested USB charging while the device was running and encountered no issues. I took this opportunity to polish the UI — making the OLED display show song titles and volume levels with clean transitions. It started to feel like a consumer-ready product.
+Today I performed full system battery load and I checked how much the box could survive in one session of playback. The outcome was promising. USB charging during device operation was also performed by me without encountering any problems. I used this chance to refine the UI - which now makes the OLED screen display song name, and volume with smooth transitions. It began to have something of the look of a consumer product.
 
 ---
 
 **Day 11 - 05/07/2025**  
 *Time Spent:* 6 hours  
-I printed the enclosure using my finalized 3D model and began mounting the components inside. The button and port alignment was nearly perfect. I added ventilation grids for heat dispersion, then secured the internal parts. I also wrote a clear guide on how to assemble everything — including screw sizes, fitting tips, and wiring precautions.
+I used my completed 3D model and printed an enclosure and started attaching the parts in it. Butt and port alignment was almost perfect. I also allowed air meshes in order to dissipate heat, and fastened the internals. I also described well how this could all be assembled (screw sizes, ensuring the fitting fit, and warning on wiring precautions).
 
 ---
 
 **Day 12 - 06/07/2025**  
 *Time Spent:* 5 hours  
-It was time for full testing. I played several MP3 tracks, checked volume adjustment, and confirmed that the OLED gave proper feedback with every interaction. I made sure the enclosure shut tightly with no wire compression. Everything felt smooth. I took final photos of the device from multiple angles to document this phase.
-
+Time to do real testing. I also listened to a few MP3 songs, I tested the options of adjusting the volume, and checked that the OLED provided me with correct feedback whenever interacting. I ensured the enclosure was closed properly without compression of wire. It was all going great. I made end shots of the device to cover various angles of the device as a part of this stage.(All Simulation)
 ---
 
 **Day 13 - 07/07/2025**  
 *Time Spent:* 4 hours  
-I spent today wrapping up all assembly documentation, focusing on simplifying each step for reproducibility. I also did a deep dive into MP3 decoding strategies and power preservation techniques, simulating long usage sessions and refining the battery indicator logic to be more precise.
+Today I have been finishing the assembly documentation, making every step as easy as possible to reproduce. I also went into great detail when it comes to MP3 decoding strategies and power saving measures, and simulated use during long sessions as well as narrowing down the battery indicator logic to be more accurate.
 
 ---
 
 **Day 14 - 08/07/2025**  
 *Time Spent:* 4 hours  
-This session was focused on refining the written documentation. I added wiring callouts for potential troubleshooting and clearly labeled every section of the design. I calculated the final cost of the entire build and was pleased to see I had stayed well within budget. I also reviewed safety and usability under different scenarios — including heat, overcharge, and button misuse.
+This session aimed at the improvement of written documentation. I incorporated wiring callouts that may be troubleshooted and spaces in the design such that I named each and every aspect of the design. I did some maths and weighed up the overall cost of the build and was very happy to realize I had been way under budget. I also tested them in situations regarding safety and usability such as heat, overcharging, and misusing the buttons.
 
 ---
 
 **Day 15 - 09/07/2025**  
 *Time Spent:* 3 hours  
-For the final touch, I cross-checked the entire Bill of Materials to confirm accuracy and consistency with the source files. I polished the README to follow formatting standards, then uploaded all final CAD files, wiring diagrams, and project photos to the documentation gallery. With that, the *Music Everywhere Box* was officially complete and ready to share with the world.
+To complete it, I used the final touch which was checking the whole Bill of Materials to be accurate and in line with the source. I also finished the README to match formatting guidelines and uploaded all final CAD files, wiring diagrams and project photos to the documentation gallery. And with that IBM Music Everywhere Box was officially finished and ready to share with the world.
 
 ---
 
 
 
 ## Images
-- ![alt text](PIC/image1.png) 
-- ![alt text](PIC/image2.png) 
-- ![alt text](PIC/image.png)
-- ![alt text](PIC/music_everywhere_box_wiring_diagram.png)
+
 
 
 
