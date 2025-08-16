@@ -1,17 +1,18 @@
 Component,Description,Price (USD),Link
 Teensy 4.1 Microcontroller,High-performance MCU,68,https://www.ebay.com/itm/256807071908
 DFPlayer Mini MP3 Module,Audio playback from SD card,7.50,https://www.ebay.com/itm/226395423736?_skw=DFPlayer+Mini+MP3+Module
-PAM8403 3W Amplifier Module,Small Class-D audio amplifier,6,
-3″ Full-Range Speaker (8 Ω),Clear audio output,18,
-Rotary Encoder with Button,User input for track and volume,7,
-0.96″ OLED I²C Display,Displays track and volume info,9,
-18650 Battery Pack + Protection,Rechargeable battery with safety board,23,
-Power Switch & Charging Port,Turns off/on & recharges,6,
+PAM8403 3W Amplifier Module,Small Class-D audio amplifier,6,https://www.amazon.eg/-/en/Generic-Decoder-Bluetooth-Amplifier-PAM8403/dp/B0923F7V3Q/
+Full-Range Speaker (8 Ω),Clear audio output,31,https://www.amazon.eg/-/en/Speakers-XS-GT6997-1000W-3-Way-Design/dp/B0FDQ96PD9/
+2 * Rotary Encoder with Button,User input for track and volume,4,https://www.amazon.eg/-/en/Pin-Rotary-Encoder-Push-Button/dp/B09238NGBH/
+0.96″ OLED I²C Display,Displays track and volume info,9,https://www.amazon.eg/-/en/Arduino-OLED-LCD-Display-Module/dp/B097LKXL7K/
+18650 Battery Pack + Protection,Rechargeable battery with safety board,16,https://www.amazon.eg/-/en/internal-Rechargeable-Electric-scooters-engineer/dp/B0FDSJB142/
+Power Switch & Charging Port,Turns off/on & recharges,1,https://www.amazon.eg/-/en/NIANWUDU-Rocker-Position-Household-Appliances/dp/B092L9HY3L/
 3D-Printed Enclosure (PLA),Custom-designed for the box,30,
-High-Quality Tactile Buttons,Smooth press feel,7,
-Jumper Wires & Connectors Kit,Wiring and connections,10,
-Li-Ion Battery Gauge Module,Shows battery level,12,
-USB-C Cable & Adapter,For charging,10,
-10W Subwoofer Amp Module,Optional bass upgrade,50,
+20Pcs 6 x 6mm x 5mm Momentary Tactile Tact,Smooth press feel,3,https://www.amazon.eg/-/en/20Pcs-Momentary-Tactile-Button-Switch/dp/B0CPYRH8Z3/
+Breadboard kit for also the jumpers,,31.07,https://ar.aliexpress.com/item/1005009232305446.html?
+Generic 5S 18V 100A BMS Li-ion LMO Ternary Lithium Module,Shows battery level,7,https://www.amazon.eg/-/en/Generic-Ternary-Protection-Li-Polymer-Charging/dp/B0CHN8S4Q7/
+JSAUX USB C to USB C 100W Fast Charging Cable 2M Red,,4,https://www.amazon.eg/-/en/JSAUX-100W-Fast-Charging-Cable/dp/B09T3FV3CJ/
+Generic DX-7377 Digital Power Audio Stereo Amplifier Module, 12Vdc, 80W,,10,https://www.amazon.eg/-/en/Generic-DX-7377-Digital-Stereo-Amplifier/dp/B0C53WX64H/
 
-,TOTAL,$263.5,
+,TOTAL,$227.57,
+
