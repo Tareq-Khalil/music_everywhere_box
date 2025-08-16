@@ -18,22 +18,23 @@ I wanted to build something elegant and customizable that blends old-school musi
 |---|------------------------------------|------------------------------------------|-------------|------|
 | 1 | Teensy 4.1 Microcontroller         | High-performance MCU                     | $68         | [Link](https://www.ebay.com/itm/256807071908) |
 | 2 | DFPlayer Mini MP3 Module           | Audio playback from SD card              | $7.50       | [Link](https://www.ebay.com/itm/226395423736?_skw=DFPlayer+Mini+MP3+Module) |
-| 3 | PAM8403 3 W Amplifier Module       | Small Class-D audio amplifier            | $6          | — |
-| 4 | 3″ Full-Range Speaker (8 Ω)        | Clear audio output                       | $18         | — |
-| 5 | Rotary Encoder with Button         | User input for track and volume          | $7          | — |
-| 6 | 0.96″ OLED I²C Display             | Displays track and volume info           | $9          | — |
-| 7 | 18650 Battery Pack + Protection    | Rechargeable battery with safety board   | $23         | — |
-| 8 | Power Switch & Charging Port       | Turns off/on & recharges                 | $6          | — |
-| 9 | 3D-Printed Enclosure (PLA)         | Custom-designed for the box              | $30         | — |
-|10 | High-Quality Tactile Buttons       | Smooth press feel                        | $7          | — |
-|11 | Jumper Wires & Connectors Kit      | Wiring and connections                   | $10         | — |
-|12 | Li-Ion Battery Gauge Module        | Shows battery level                      | $12         | — |
-|13 | USB-C Cable & Adapter              | For charging                             | $10         | — |
-|14 | 10 W Subwoofer Amp Module          | Optional bass upgrade                    | $50         | — |
+| 3 | PAM8403 3W Amplifier Module	      | Small Class-D audio amplifier            | $6          | [Amazon](https://www.amazon.eg/-/en/Generic-Decoder-Bluetooth-Amplifier-PAM8403/dp/B0923F7V3Q/) |
+| 4 | Full-Range Speaker (8 Ω)	        | Clear audio output                       | $31         | [Amazon](https://www.amazon.eg/-/en/Speakers-XS-GT6997-1000W-3-Way-Design/dp/B0FDQ96PD9/) |
+| 5 | 2 * Rotary Encoder with Button	         | User input for track and volume          | $4          | [Amazon](https://www.amazon.eg/-/en/Pin-Rotary-Encoder-Push-Button/dp/B09238NGBH/) |
+| 6 | 0.96″ OLED I²C Display             | Displays track and volume info           | $9          | [Amazon](https://www.amazon.eg/-/en/Arduino-OLED-LCD-Display-Module/dp/B097LKXL7K/) |
+| 7 | 18650 Battery Pack + Protection    | Rechargeable battery with safety board   | $16         | [Amazon](https://www.amazon.eg/-/en/internal-Rechargeable-Electric-scooters-engineer/dp/B0FDSJB142/) |
+| 8 | Power Switch & Charging Port       | Turns off/on & recharges                 | $1          | [Amazon](https://www.amazon.eg/-/en/NIANWUDU-Rocker-Position-Household-Appliances/dp/B092L9HY3L/) |
+| 9 | 3D-Printed Enclosure (PLA)         | Custom-designed for the box              | $30         | [Amazon]() |
+|10 | 20Pcs 6 x 6mm x 5mm Momentary Tactile Tact	       |                        | $3          | [Amazon](https://www.amazon.eg/-/en/20Pcs-Momentary-Tactile-Button-Switch/dp/B0CPYRH8Z3/) |
+|11 |Breadboard kit for also the jumpers	      | Wiring and connections                   | $31.07         | [Amazon](https://ar.aliexpress.com/item/1005009232305446.html?) |
+|12 | Generic 5S 18V 100A BMS Li-ion LMO Ternary Lithium Module	        |                       | $7         | [Amazon](https://www.amazon.eg/-/en/Generic-Ternary-Protection-Li-Polymer-Charging/dp/B0CHN8S4Q7/) |
+|13 | JSAUX USB C to USB C 100W Fast Charging Cable 2M Red	             |                            | $4         | [Amazon](https://www.amazon.eg/-/en/JSAUX-100W-Fast-Charging-Cable/dp/B09T3FV3CJ/) |
+|14 | Generic DX-7377 Digital Power Audio Stereo Amplifier Module/ 12Vdc/ 80W	          |                    | $10         | [Amazon](https://www.amazon.eg/-/en/Generic-DX-7377-Digital-Stereo-Amplifier/dp/B0C53WX64H/) |
 
-**Total Cost = $263.5**
+**Total Cost = $227.57**
 
 ---
 
 ### Note
 I can provide links for all the materials because i am going to buy them offline nearby because it is cheaper and i ask to be funded after i show you the reciept of my purchase for reimbrusement.
+
